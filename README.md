@@ -1,5 +1,5 @@
 
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Nuh Khan 👋
 
 I'm a recent graduate of the University of Wisconsin Extended Campus Data Analytics/Visualization Boot Camp, where I developed skills in Excel, Python, SQL, AWS, JavaScript, R, Machine Learning, and Neural Networks. I'm passionate about data, eager to apply my knowledge, and committed to continuous learning. 
 
