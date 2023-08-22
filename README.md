@@ -11,14 +11,14 @@ Check out my work below!
 
 I've leveraged Excel for various data cleaning, manipulation, and statistical analysis tasks. You can view my related projects here:
 
-1. [Project Name](Link to the project)
-2. [Project Name](Link to the project)
+1. [Kickstarter Analysis](https://github.com/Nuh-Khan/Kickstarter-Analysis)
+2. [Stock Analysis](https://github.com/Nuh-Khan/stock-analysis)
 
 ### Python
 
 Python is my go-to for data analysis, visualization, and machine learning. Check out some of my Python projects:
 
-1. [Project Name](Link to the project)
+1. [Election Analysis](https://github.com/Nuh-Khan/Election_Analysis)
 2. [Project Name](Link to the project)
 
 ### SQL
