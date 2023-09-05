@@ -26,7 +26,7 @@ Python is my go-to for data analysis, visualization, and machine learning. Check
 I use SQL for managing and manipulating databases. Here are some of my SQL projects:
 
 1. [Pewlett Hackard Analysis](https://github.com/Nuh-Khan/Pewlett-Hackard-Analysis)
-2. [Project Name](Link to the project)
+2. [Surfs Up!](https://github.com/Nuh-Khan/surfs_up)
 
 ### AWS
 
@@ -39,8 +39,8 @@ I've used AWS for cloud computing and data storage. You can view my AWS-related 
 
 I've utilized JavaScript for data visualization and web development. See my JavaScript projects here:
 
-1. [Project Name](https://github.com/Nuh-Khan/Mapping_Earthquakes)
-2. [Project Name](Link to the project)
+1. [Mapping Earthquakes](https://github.com/Nuh-Khan/Mapping_Earthquakes)
+2. [UFO](https://github.com/Nuh-Khan/UFOs)
 
 ### R
 
