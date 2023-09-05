@@ -19,13 +19,13 @@ I've leveraged Excel for various data cleaning, manipulation, and statistical an
 Python is my go-to for data analysis, visualization, and machine learning. Check out some of my Python projects:
 
 1. [Election Analysis](https://github.com/Nuh-Khan/Election_Analysis)
-2. [Project Name](Link to the project)
+2. [Plan My Trip](https://github.com/Nuh-Khan/World_Weather_Analysis)
 
 ### SQL
 
 I use SQL for managing and manipulating databases. Here are some of my SQL projects:
 
-1. [Project Name](Link to the project)
+1. [Pewlett Hackard Analysis](https://github.com/Nuh-Khan/Pewlett-Hackard-Analysis)
 2. [Project Name](Link to the project)
 
 ### AWS
@@ -44,10 +44,9 @@ I've utilized JavaScript for data visualization and web development. See my Java
 
 ### R
 
-I have experience with statistical analysis and data visualization using R. Check out my R projects:
+I have experience with statistical analysis and data visualization using R. Check out my R project:
 
-1. [Project Name](Link to the project)
-2. [Project Name](Link to the project)
+1. [Mechacar Analysis](https://github.com/Nuh-Khan/MechaCar_Statistical_Analysis)
 
 ### Machine Learning
 
