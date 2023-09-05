@@ -39,7 +39,7 @@ I've used AWS for cloud computing and data storage. You can view my AWS-related 
 
 I've utilized JavaScript for data visualization and web development. See my JavaScript projects here:
 
-1. [Project Name](Link to the project)
+1. [Project Name](https://github.com/Nuh-Khan/Mapping_Earthquakes)
 2. [Project Name](Link to the project)
 
 ### R
@@ -52,8 +52,8 @@ I have experience with statistical analysis and data visualization using R. Chec
 
 I've worked on various machine learning projects, involving both supervised and unsupervised learning. Here are some highlights:
 
-1. [Project Name](Link to the project)
-2. [Project Name](Link to the project)
+1. [Credit Risk](https://github.com/Nuh-Khan/Credit_Risk_Analysis)
+2. [Crypto](https://github.com/Nuh-Khan/Cryptocurrencies)
 
 ### Neural Networks
 
