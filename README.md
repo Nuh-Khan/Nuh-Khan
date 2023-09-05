@@ -30,11 +30,10 @@ I use SQL for managing and manipulating databases. Here are some of my SQL proje
 
 ### AWS
 
-I've used AWS for cloud computing and data storage. You can view my AWS-related projects here:
+I've used AWS for cloud computing and data storage. You can view my AWS-related project here:
 
-1. [Project Name](Link to the project)
-2. [Project Name](Link to the project)
-
+1. [Project Name](https://github.com/Nuh-Khan/Amazon_Vine_Analysis)
+   
 ### JavaScript
 
 I've utilized JavaScript for data visualization and web development. See my JavaScript projects here:
@@ -59,8 +58,7 @@ I've worked on various machine learning projects, involving both supervised and 
 
 My neural networks projects involve designing and implementing models for various use cases. Here's what I've done:
 
-1. [Project Name](Link to the project)
-2. [Project Name](Link to the project)
+1. [Project Name](https://github.com/Nuh-Khan/Neural_Network_Charity_Analysis)
 
 Feel free to contact me for collaboration or to discuss my projects.
 
