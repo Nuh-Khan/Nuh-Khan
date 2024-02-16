@@ -58,7 +58,7 @@ I've worked on various machine learning projects, involving both supervised and 
 
 My neural networks projects involve designing and implementing models for various use cases. Here's what I've done:
 
-1. [Project Name](https://github.com/Nuh-Khan/Neural_Network_Charity_Analysis)
+1. [Charity Analysis](https://github.com/Nuh-Khan/Neural_Network_Charity_Analysis)
 
 Feel free to contact me for collaboration or to discuss my projects.
 
