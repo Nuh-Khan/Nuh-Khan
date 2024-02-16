@@ -32,7 +32,7 @@ I use SQL for managing and manipulating databases. Here are some of my SQL proje
 
 I've used AWS for cloud computing and data storage. You can view my AWS-related project here:
 
-1. [Project Name](https://github.com/Nuh-Khan/Amazon_Vine_Analysis)
+1. [Amazon Vine](https://github.com/Nuh-Khan/Amazon_Vine_Analysis)
    
 ### JavaScript
 
